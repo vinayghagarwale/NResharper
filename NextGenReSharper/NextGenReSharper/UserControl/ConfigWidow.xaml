@@ -1,0 +1,66 @@
+﻿<controls:MetroWindow x:Class="NextGenReSharper.UserControl.ConfigWidow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NextGenReSharper.UserControl"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen" 
+        WindowTitleBrush="#FFB35546"
+                      Loaded="MetroWindow_Loaded"
+        Title="Config" Height="400" Width="600" ResizeMode="NoResize">
+    <controls:MetroWindow.Resources>
+        <Style x:Key="NgButton"
+            TargetType="{x:Type Button}"
+            BasedOn="{StaticResource MetroFlatButton}">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="#FFB35546"/>
+        </Style>
+    </controls:MetroWindow.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="" />
+
+        <TextBlock  Grid.Row="1" Text="NameSpace Prefix : " HorizontalAlignment="Right" />
+        <TextBox Name="txtNamespaceName" Grid.Row="1"  Grid.Column="1" Margin="0,0,0,5" />
+
+        <TextBlock Grid.Row="2" Text="Select Method Name :  " HorizontalAlignment="Right" />
+        <TextBox Name="txtSelectMethodName" Grid.Row="2" Grid.Column="1" Margin="0,0,0,5" />
+
+        <TextBlock Grid.Row="3" Text="Insert Method Name :  " HorizontalAlignment="Right" />
+        <TextBox Name="txtInsertMethodName" Grid.Row="3"  Grid.Column="1" Margin="0,0,0,5" />
+
+        <TextBlock Grid.Row="4" Text="Update Method Name :  " HorizontalAlignment="Right" />
+        <TextBox Name="txtUpdateMethodName" Grid.Row="4" Grid.Column="1" Margin="0,0,0,10" />
+
+        <TextBlock Grid.Row="5" Text="Delete Method Name :  " HorizontalAlignment="Right" />
+        <TextBox Name="txtDeleteMethodName" Grid.Row="5" Grid.Column="1" Height="26" VerticalAlignment="Top" />
+
+        <TextBlock Grid.Row="6" Text="Execute Method Name :  " HorizontalAlignment="Right" />
+        <TextBox Name="txtExecuteMethodName" Grid.Row="6" Grid.Column="1" Margin="0,0,0,10" />
+        <Button Style="{StaticResource NgButton}"
+            x:Name="btnRules"
+            Grid.Column="2" 
+            Content="Save and Close" 
+            Click="btnRules_Click"
+            Margin="68,49,10,-50" 
+            Grid.Row="9" />
+    </Grid>
+</controls:MetroWindow>

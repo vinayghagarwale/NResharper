@@ -1,0 +1,10 @@
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\bin\Debug\Engine.Logger.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\bin\Debug\Engine.Logger.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\bin\Debug\Contract.NGReSharper.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\bin\Debug\Models.MGReSharper.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\bin\Debug\Contract.NGReSharper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\bin\Debug\Models.MGReSharper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\obj\Debug\Engine.Logger.csprojResolveAssemblyReference.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\obj\Debug\Engine.Logger.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\obj\Debug\Engine.Logger.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\obj\Debug\Engine.Logger.pdb

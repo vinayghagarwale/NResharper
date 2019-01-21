@@ -1,0 +1,10 @@
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Nextgen.Engine.CSharpCompiler\bin\Debug\Nextgen.Engine.CSharpCompiler.dll
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Nextgen.Engine.CSharpCompiler\bin\Debug\Nextgen.Engine.CSharpCompiler.pdb
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Nextgen.Engine.CSharpCompiler\obj\Debug\Nextgen.Engine.CSharpCompiler.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Nextgen.Engine.CSharpCompiler\obj\Debug\Nextgen.Engine.CSharpCompiler.dll
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Nextgen.Engine.CSharpCompiler\obj\Debug\Nextgen.Engine.CSharpCompiler.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Nextgen.Engine.CSharpCompiler\bin\Debug\Nextgen.Engine.CSharpCompiler.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Nextgen.Engine.CSharpCompiler\bin\Debug\Nextgen.Engine.CSharpCompiler.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Nextgen.Engine.CSharpCompiler\obj\Debug\Nextgen.Engine.CSharpCompiler.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Nextgen.Engine.CSharpCompiler\obj\Debug\Nextgen.Engine.CSharpCompiler.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Nextgen.Engine.CSharpCompiler\obj\Debug\Nextgen.Engine.CSharpCompiler.pdb

@@ -1,0 +1,8 @@
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Contract.NGReSharper\bin\Debug\Contract.NGReSharper.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Contract.NGReSharper\bin\Debug\Contract.NGReSharper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\Contract.NGReSharper.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\Contract.NGReSharper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Contract.NGReSharper\obj\Debug\Contract.NGReSharper.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Contract.NGReSharper\obj\Debug\Contract.NGReSharper.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Contract.NGReSharper\obj\Debug\Contract.NGReSharper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Contract.NGReSharper\obj\Debug\Contract.NGReSharper.csprojResolveAssemblyReference.cache

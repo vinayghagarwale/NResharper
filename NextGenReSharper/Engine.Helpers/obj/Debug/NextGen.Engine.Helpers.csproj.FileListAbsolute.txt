@@ -1,0 +1,10 @@
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\NextGen.Engine.Helpers.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\NextGen.Engine.Helpers.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Helpers\obj\Debug\NextGen.Engine.Helpers.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Helpers\obj\Debug\NextGen.Engine.Helpers.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Helpers\obj\Debug\NextGen.Engine.Helpers.pdb
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Bin\NextGen.Engine.Helpers.dll
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Bin\NextGen.Engine.Helpers.pdb
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Engine.Helpers\obj\Debug\NextGen.Engine.Helpers.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Engine.Helpers\obj\Debug\NextGen.Engine.Helpers.dll
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Engine.Helpers\obj\Debug\NextGen.Engine.Helpers.pdb

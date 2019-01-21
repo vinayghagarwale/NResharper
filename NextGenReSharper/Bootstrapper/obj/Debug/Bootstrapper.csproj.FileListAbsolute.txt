@@ -1,0 +1,13 @@
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bootstrapper\bin\Debug\Bootstrapper.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bootstrapper\bin\Debug\Bootstrapper.pdb
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Bin\Bootstrapper.dll
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Bin\Bootstrapper.pdb
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Bootstrapper\obj\Debug\Bootstrapper.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Bootstrapper\obj\Debug\Bootstrapper.dll
+E:\Side Projects\NextGenReSharper1\NextGenReSharper\Bootstrapper\obj\Debug\Bootstrapper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\Bootstrapper.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\Bootstrapper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bootstrapper\obj\Debug\Bootstrapper.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bootstrapper\obj\Debug\Bootstrapper.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bootstrapper\obj\Debug\Bootstrapper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bootstrapper\obj\Debug\Bootstrapper.csprojResolveAssemblyReference.cache

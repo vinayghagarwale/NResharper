@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B65C4B60-4240-440E-BBC3-D86A5EB4842B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NextGen.Manager.NGReSharper</RootNamespace>
+    <AssemblyName>NextGen.Manager.NGReSharper</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="NGResharperManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Contract.NGReSharper\NextGen.Contract.NGReSharper.csproj">
+      <Project>{8280c243-d118-4a3d-a2e0-c595ffa5e6a1}</Project>
+      <Name>NextGen.Contract.NGReSharper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Engine.ConvertSPtoCSharpCode\NextGen.Engine.Converter.csproj">
+      <Project>{f63bf50d-0a57-4268-af4e-111454fdd094}</Project>
+      <Name>NextGen.Engine.Converter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Engine.ExtractInlineSQLQuery\NextGen.Engine.Extracter.csproj">
+      <Project>{c829603e-4936-4cad-a7ac-c924da95a809}</Project>
+      <Name>NextGen.Engine.Extracter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Engine.Helpers\NextGen.Engine.Helpers.csproj">
+      <Project>{0feef5d8-1ecf-4c7a-b06f-26c12c3762eb}</Project>
+      <Name>NextGen.Engine.Helpers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Models.MGReSharper\NextGen.Models.NGReSharper.csproj">
+      <Project>{0fd40364-715f-4bd1-af45-c2b9b41f16b2}</Project>
+      <Name>NextGen.Models.NGReSharper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

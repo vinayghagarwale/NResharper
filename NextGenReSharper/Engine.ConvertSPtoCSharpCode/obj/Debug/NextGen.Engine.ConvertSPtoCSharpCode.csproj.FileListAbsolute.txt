@@ -1,0 +1,6 @@
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ConvertSPtoCSharpCode\obj\Debug\NextGen.Engine.ConvertSPtoCSharpCode.csprojResolveAssemblyReference.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ConvertSPtoCSharpCode\obj\Debug\NextGen.Engine.ConvertSPtoCSharpCode.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\NextGen.Engine.ConvertSPtoCSharpCode.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\NextGen.Engine.ConvertSPtoCSharpCode.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ConvertSPtoCSharpCode\obj\Debug\NextGen.Engine.ConvertSPtoCSharpCode.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ConvertSPtoCSharpCode\obj\Debug\NextGen.Engine.ConvertSPtoCSharpCode.pdb

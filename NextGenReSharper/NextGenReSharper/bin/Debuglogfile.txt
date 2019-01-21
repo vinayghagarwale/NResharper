@@ -1,0 +1,50 @@
+Nextgen ReSharper (NG RE#) Log File
+***********************************************************
+Total While Loops       : 0
+Total IF Statement      : 2
+Total SQL Queries       : 1
+Parameter Count         : 3
+Comments Count          : 3
+Local Variable Count    : 1
+Print statement Count   : 0
+***********************************************************
+***********************************************************
+Interpreted Code        : 34
+Uninterpreted Code      : 0
+Empty Line Code         : 2
+Unidentified Line Code  : 2
+                     ----------------------------
+Total Line Count        : 38
+                     ----------------------------
+***********************************************************
+Convert Percentage (%)  : 95.00%
+***********************************************************
+
+8/20/2018 2:39:30 PM - *****************************************
+8/20/2018 2:39:30 PM - Rules Configured
+8/20/2018 2:39:30 PM - *****************************************
+8/20/2018 2:39:30 PM - Convert Type                      : Convert Stored Procedure to C# Code
+8/20/2018 2:39:30 PM - Add Business Logic                : True
+8/20/2018 2:39:30 PM - Add Data Access Logic             : False
+8/20/2018 2:39:30 PM - Add Model                         : False
+8/20/2018 2:39:30 PM - Add Contract                      : False
+8/20/2018 2:39:30 PM - Add Namespace                     : False
+8/20/2018 2:39:30 PM - Create C# Project                 : False
+8/20/2018 2:39:30 PM - Convert Stored Procedure comments : False
+8/20/2018 2:39:30 PM - *****************************************
+8/20/2018 2:39:30 PM - Converting Stored Procedure to Business Logic Started
+8/20/2018 2:39:30 PM - Creating Model started
+8/20/2018 2:39:30 PM - Creating Model Member
+8/20/2018 2:39:30 PM - Creating Model Member
+8/20/2018 2:39:30 PM - Creating Model Member
+8/20/2018 2:39:30 PM - Creating Model Completed
+8/20/2018 2:39:30 PM - Creating Local Members
+8/20/2018 2:39:30 PM - Converting IF Statement
+8/20/2018 2:39:30 PM - Converting BEGIN.
+8/20/2018 2:39:30 PM - Converting Stored Procedure Print Statement
+8/20/2018 2:39:30 PM - Converting Return Statement
+8/20/2018 2:39:30 PM - Converting END.
+8/20/2018 2:39:30 PM - Converting SQL Query
+8/20/2018 2:39:30 PM - Converting IF Statement
+8/20/2018 2:39:30 PM - Converting Stored Procedure Print Statement
+8/20/2018 2:39:30 PM - Converting Stored Procedure to Business Logic Completed

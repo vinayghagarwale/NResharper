@@ -1,0 +1,5 @@
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Models.MGReSharper\obj\Debug\Models.MGReSharper.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\Models.MGReSharper.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\Models.MGReSharper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Models.MGReSharper\obj\Debug\Models.MGReSharper.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Models.MGReSharper\obj\Debug\Models.MGReSharper.pdb

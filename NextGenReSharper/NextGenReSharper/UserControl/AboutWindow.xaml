@@ -1,0 +1,63 @@
+﻿<controls:MetroWindow x:Class="NextGenReSharper.UserControl.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NextGenReSharper.UserControl"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen" 
+        WindowTitleBrush="#FFB35546"
+        Title="About" Height="400" Width="600" ResizeMode="NoResize">
+    <controls:MetroWindow.Resources>
+        <Style x:Key="NgButton"
+            TargetType="{x:Type Button}"
+            BasedOn="{StaticResource MetroFlatButton}">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="#FFB35546"/>
+        </Style>
+    </controls:MetroWindow.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Image Margin="0,1,0,0" Grid.RowSpan="3" Grid.Row="1">
+            <Image.Source>
+                <BitmapImage  UriSource="../../Images/NGH_Logo_COLOR1.png" />
+            </Image.Source>
+        </Image>
+        <TextBlock Grid.Column="1" Text="Nextgen Transformer" HorizontalAlignment="Center" />
+
+        <TextBlock Grid.Column="1" 
+                   TextWrapping="Wrap"
+                   Grid.Row="1"
+                   Grid.RowSpan="3"
+                   Text="Automated tool to convert existing stored procedure code to C# code" 
+                   HorizontalAlignment="Center" Margin="32,0,26,0" Width="239" />
+
+
+        <Button Style="{StaticResource NgButton}"
+                x:Name="btnRules"
+                Grid.Column="1" 
+                Content="Close" 
+                Click="btnRules_Click"
+                Margin="167,111,10,-112" 
+                Grid.Row="7" />
+
+
+
+    </Grid>
+</controls:MetroWindow>

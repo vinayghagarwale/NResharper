@@ -1,0 +1,12 @@
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ExtractInlineSQLQuery\bin\Debug\Engine.ExtractInlineSQLQuery.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ExtractInlineSQLQuery\bin\Debug\Engine.ExtractInlineSQLQuery.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ExtractInlineSQLQuery\bin\Debug\Engine.Helpers.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ExtractInlineSQLQuery\bin\Debug\Models.MGReSharper.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ExtractInlineSQLQuery\bin\Debug\Engine.Helpers.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ExtractInlineSQLQuery\bin\Debug\Models.MGReSharper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\Engine.ExtractInlineSQLQuery.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\Engine.ExtractInlineSQLQuery.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ExtractInlineSQLQuery\obj\Debug\Engine.ExtractInlineSQLQuery.csprojResolveAssemblyReference.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ExtractInlineSQLQuery\obj\Debug\Engine.ExtractInlineSQLQuery.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ExtractInlineSQLQuery\obj\Debug\Engine.ExtractInlineSQLQuery.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.ExtractInlineSQLQuery\obj\Debug\Engine.ExtractInlineSQLQuery.pdb

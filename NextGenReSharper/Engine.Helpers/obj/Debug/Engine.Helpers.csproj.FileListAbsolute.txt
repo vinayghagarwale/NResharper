@@ -1,0 +1,5 @@
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\Engine.Helpers.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\Engine.Helpers.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Helpers\obj\Debug\Engine.Helpers.csproj.CoreCompileInputs.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Helpers\obj\Debug\Engine.Helpers.dll
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Helpers\obj\Debug\Engine.Helpers.pdb
