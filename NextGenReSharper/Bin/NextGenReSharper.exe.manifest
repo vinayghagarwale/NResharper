@@ -79,14 +79,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NextGen.Contract.NGReSharper.dll" size="5120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NextGen.Contract.NGReSharper.dll" size="5632">
       <assemblyIdentity name="NextGen.Contract.NGReSharper" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>b/UExZYQtO0Qpum7EjNwLFxpmx3W9o930NANYAK58Ro=</dsig:DigestValue>
+        <dsig:DigestValue>QeMl17bnnMBGxdUxzRDRG+mHKp4AUjOmZuWIUNigU3I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -98,7 +98,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>R478XzKy750U+/Wgwy5hml56KIHQnkJvaywpjBJcXys=</dsig:DigestValue>
+        <dsig:DigestValue>vspaAlJPIX7NHe67bUUW36uxB6oAh82l4CDOvEQHQd8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NextGen.Engine.Extracter.dll" size="13312">
+      <assemblyIdentity name="NextGen.Engine.Extracter" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>geAHbk8oEiBuwMwLWb+EX4mQD7BSL104hRB7roKGGmg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -110,7 +122,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Sgzg9E5XPOjNGZIRhbZynBSaWmk8cilDygqP2LUcPlw=</dsig:DigestValue>
+        <dsig:DigestValue>NLcxVhfkKMSoNRH4gxZJt4YqULBDOrf6/YeFR87xkl8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -122,19 +134,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CccspTy0ki33bnararNlN4vvGq2iCUcubACwhHgDHEo=</dsig:DigestValue>
+        <dsig:DigestValue>T33vVka1vBkeacdU0xgwdSHnI9ps5D09PBa/evPtEe4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NextGen.Manager.NGReSharper.dll" size="6144">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NextGen.Manager.NGReSharper.dll" size="6656">
       <assemblyIdentity name="NextGen.Manager.NGReSharper" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bjm5SaeYxm8j0ZZHoKjtsS8OOzRyJFBAwkHrH43+xOM=</dsig:DigestValue>
+        <dsig:DigestValue>lj8aLl3PVLQvzOrjIa/viZ268tVbRj1E/1UJ5EKdrcs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -146,19 +158,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dgRNkxIA1zkm0K/ug01cylhBU3M+K4H9jw1U6o60j2U=</dsig:DigestValue>
+        <dsig:DigestValue>wS/03FT4ESKO2dWtAro3H6lBnbpAbQ9dK2PabvXQ//8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NextGenReSharper.exe" size="648696">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NextGenReSharper.exe" size="649208">
       <assemblyIdentity name="NextGenReSharper" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QoW4APXSRztJmwxG9/qkQH0NyS9EQ0Qmfu/+4m5X5S8=</dsig:DigestValue>
+        <dsig:DigestValue>Dg4kFQ+jvF7pNaDd5XAihGU1P7izqv/tR2NhndrDTw0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

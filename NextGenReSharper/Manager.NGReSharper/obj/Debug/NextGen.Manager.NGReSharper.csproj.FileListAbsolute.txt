@@ -1,4 +1,3 @@
-E:\Side Projects\NextGenReSharper\NextGenReSharper\Manager.NGReSharper\obj\Debug\NextGen.Manager.NGReSharper.csprojResolveAssemblyReference.cache
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Manager.NGReSharper\obj\Debug\NextGen.Manager.NGReSharper.csproj.CoreCompileInputs.cache
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\NextGen.Manager.NGReSharper.dll
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\NextGen.Manager.NGReSharper.pdb
@@ -10,3 +9,5 @@ E:\Side Projects\NextGenReSharper1\NextGenReSharper\Manager.NGReSharper\obj\Debu
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\Manager.NGReSharper\obj\Debug\NextGen.Manager.NGReSharper.csproj.CoreCompileInputs.cache
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\Manager.NGReSharper\obj\Debug\NextGen.Manager.NGReSharper.dll
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\Manager.NGReSharper\obj\Debug\NextGen.Manager.NGReSharper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Manager.NGReSharper\obj\Debug\NextGen.Manager.NGReSharper.csprojAssemblyReference.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Manager.NGReSharper\obj\Debug\NextGen.Manager.NGReSharper.csproj.CopyComplete

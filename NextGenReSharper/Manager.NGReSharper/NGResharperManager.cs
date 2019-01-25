@@ -4,6 +4,8 @@ using NextGen.Engine.Converter;
 using NextGen.Models.NGReSharper;
 using NextGen.Contract.NGReSharper;
 
+using NextGen.Engine.NextGenReSharper;
+using NextGen.Engine.ExtractInlineSQLQuery;
 namespace NextGen.Manager.NGReSharper
 {
     public class NGResharperManager : IManager
@@ -11,6 +13,8 @@ namespace NextGen.Manager.NGReSharper
         private ConvertStoredProctoModel _convertSPtoIM;
         private ConvertModeltoCSharp _convertIMtoCS;
 
+        private ConvertVBNetToIntermediateModel convertVBNetToIntermediateModel;
+        private ProcessConverttoCsharpDAL processConverttoCsharpDAL;
         private IntermediateModel InterModelGet;
         private readonly ILogger _logger;
 
@@ -49,6 +53,8 @@ namespace NextGen.Manager.NGReSharper
         }
         #endregion
 
+        public string VBNETDataAccessClass { get; set; }
+
         public NGResharperManager(IntermediateModel _InterModelGet, ILogger logger)
         {
             InterModelGet = _InterModelGet;
@@ -72,6 +78,20 @@ namespace NextGen.Manager.NGReSharper
             {
                 throw;
             }
+        }
+
+        public bool ExtractInLineCodeFromVBNetCode(string SourceFilePath)
+        {
+            IntermediateModel intermediateModel = new IntermediateModel();
+
+            convertVBNetToIntermediateModel = new ConvertVBNetToIntermediateModel(SourceFilePath, intermediateModel);
+            convertVBNetToIntermediateModel.Process();
+
+            processConverttoCsharpDAL = new ProcessConverttoCsharpDAL(intermediateModel);
+            processConverttoCsharpDAL.Process();
+            VBNETDataAccessClass = processConverttoCsharpDAL.DataAccessClass;
+
+            return true;
         }
 
     }

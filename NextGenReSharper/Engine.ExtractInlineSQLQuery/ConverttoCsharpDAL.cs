@@ -13,8 +13,16 @@ namespace NextGen.Engine.ExtractInlineSQLQuery
             _itermediateModel = intermediateModel;
         }
 
+        private string _sDataAccessClass;
+
+        public string DataAccessClass
+        {
+            get { return _sDataAccessClass; }
+            set { _sDataAccessClass = value; }
+        }
+
         public IntermediateModel intermediateModel { get { return _itermediateModel; } }
-        public string Convert()
+        public void Process()
         {
             strDAL = strDAL + "//This class has been created by Nextgen Code Editor";
             strDAL = strDAL + "\r" + "//Created on : " + DateTime.Now;
@@ -124,7 +132,7 @@ namespace NextGen.Engine.ExtractInlineSQLQuery
                 counter++;
             }
             strDAL = strDAL + "\r" + "}";
-            return strDAL;
+            DataAccessClass = strDAL;
         }
 
 

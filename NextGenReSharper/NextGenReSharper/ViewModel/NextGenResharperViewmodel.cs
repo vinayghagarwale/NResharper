@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 using System.IO;
 using System.Windows.Forms;
 using System.Windows;
-
+using NextGen.Manager.NGReSharper;
 using NextGen.Models.NGReSharper;
 using NextGenReSharper.Resource;
 using NextGenReSharper.UserControl;
@@ -339,6 +339,19 @@ namespace NextGenReSharper.ViewModel
             }
         }
 
+        private RelayCommand _ClearDataInLine;
+
+        /// <summary>
+        /// Clear Data
+        /// </summary>
+        public RelayCommand ClearDataInLine
+        {
+            get
+            {
+                return _ClearDataInLine ?? (_ClearDataInLine = new RelayCommand(param => ProcessClearDataInLine(), param => true));
+            }
+        }
+
         private RelayCommand _OpenDialog;
 
         /// <summary>
@@ -542,14 +555,13 @@ namespace NextGenReSharper.ViewModel
                         break;
                     case ConvertionType.CreateDALfromInline:
 
-                        //_convertVBNettoIntermediateModel = new ConvertVBNetToIntermediateModel(txtSourcePath.Text, InterModelGet);
-                        //_convertVBNettoIntermediateModel.Process();
+                        ShowEngineTab = Visibility.Collapsed;
+                        ShowDataAccessTab = Visibility.Visible;
 
-                        //processConToDAL = new ProcessConverttoCsharpDAL(InterModelGet);
+                        _nGReSharperContext.ngResharperManager.ExtractInLineCodeFromVBNetCode(SourceFilePath);
 
-                        //processConToDAL.Convert();
-
-                        //DestinationDALText.Document.Blocks.Add(new Paragraph(new Run(processConToDAL.Convert())));
+                        SourceDataAccessData = _nGReSharperContext.ngResharperManager.VBNETDataAccessClass;
+                       // DestinationDALText.Document.Blocks.Add(new Paragraph(new Run(processConToDAL.Convert())));
                         break;
                 }
                 ProcessIndicator = Visibility.Collapsed;
@@ -623,6 +635,18 @@ namespace NextGenReSharper.ViewModel
         
         private void ProcessClearData()
         {
+            ProcessClearClassData();
+            SourceFilePath = "";
+            SourceFileData = "";
+            DisableTabsBasedonRules();
+            _nGReSharperContext._logger.CodeStatistics.Clear();
+            _nGReSharperContext._intermediateModel.lstSQLQueryModel.Clear();
+            _convertType = ConvertionType.ConvertSPtoCS;
+        }
+
+        private void ProcessClearDataInLine()
+        {
+            _convertType = ConvertionType.CreateDALfromInline;
             ProcessClearClassData();
             SourceFilePath = "";
             SourceFileData = "";

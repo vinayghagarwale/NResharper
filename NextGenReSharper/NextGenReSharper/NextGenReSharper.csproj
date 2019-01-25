@@ -185,6 +185,10 @@
       <Project>{8280c243-d118-4a3d-a2e0-c595ffa5e6a1}</Project>
       <Name>NextGen.Contract.NGReSharper</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Engine.ExtractInlineSQLQuery\NextGen.Engine.Extracter.csproj">
+      <Project>{c829603e-4936-4cad-a7ac-c924da95a809}</Project>
+      <Name>NextGen.Engine.Extracter</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Engine.Helpers\NextGen.Engine.Helpers.csproj">
       <Project>{0feef5d8-1ecf-4c7a-b06f-26c12c3762eb}</Project>
       <Name>NextGen.Engine.Helpers</Name>
@@ -224,12 +228,12 @@
   <ItemGroup>
     <PublishFile Include="System.Windows.Interactivity">
       <Visible>False</Visible>
-      <PublishState>Include</PublishState>
-      <IncludeHash>True</IncludeHash>
       <Group>
       </Group>
       <TargetPath>
       </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
       <FileType>Assembly</FileType>
     </PublishFile>
   </ItemGroup>
