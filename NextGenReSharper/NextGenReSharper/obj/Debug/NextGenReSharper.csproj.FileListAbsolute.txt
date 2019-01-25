@@ -33,7 +33,6 @@ E:\Side Projects\NextGenReSharper\NextGenReSharper\NextGenReSharper\bin\Debug\Ma
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\NextGenReSharper.exe.config
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\NextGenReSharper.exe
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\NextGenReSharper.pdb
-E:\Side Projects\NextGenReSharper\NextGenReSharper\NextGenReSharper\obj\Debug\NextGenReSharper.csprojResolveAssemblyReference.cache
 E:\Side Projects\NextGenReSharper\NextGenReSharper\NextGenReSharper\obj\Debug\MainWindow.g.cs
 E:\Side Projects\NextGenReSharper\NextGenReSharper\NextGenReSharper\obj\Debug\UserControl\RulesWindow.g.cs
 E:\Side Projects\NextGenReSharper\NextGenReSharper\NextGenReSharper\obj\Debug\Views\NextGenResharperView.g.cs
@@ -94,3 +93,5 @@ E:\Side Projects\NextGenReSharper1\NextGenReSharper\NextGenReSharper\obj\Debug\N
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\NextGenReSharper\obj\Debug\NextGenReSharper.exe.manifest
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\NextGenReSharper\obj\Debug\NextGenReSharper.application
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\NextGenReSharper\obj\Debug\NextGenReSharper.exe
+E:\Side Projects\NextGenReSharper\NextGenReSharper\NextGenReSharper\obj\Debug\NextGenReSharper.csprojAssemblyReference.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\NextGenReSharper\obj\Debug\NextGenReSharper.csproj.CopyComplete

@@ -1,4 +1,3 @@
-E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\obj\Debug\NextGen.Engine.Logger.csprojResolveAssemblyReference.cache
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\obj\Debug\NextGen.Engine.Logger.csproj.CoreCompileInputs.cache
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\bin\Debug\NextGen.Models.NGReSharper.dll
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\bin\Debug\NextGen.Models.NGReSharper.pdb
@@ -18,3 +17,5 @@ E:\Side Projects\NextGenReSharper1\NextGenReSharper\Engine.Logger\obj\Debug\Next
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\Engine.Logger\obj\Debug\NextGen.Engine.Logger.csproj.CoreCompileInputs.cache
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\Engine.Logger\obj\Debug\NextGen.Engine.Logger.dll
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\Engine.Logger\obj\Debug\NextGen.Engine.Logger.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\obj\Debug\NextGen.Engine.Logger.csprojAssemblyReference.cache
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Engine.Logger\obj\Debug\NextGen.Engine.Logger.csproj.CopyComplete

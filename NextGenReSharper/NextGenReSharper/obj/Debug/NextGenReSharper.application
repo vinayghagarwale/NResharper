@@ -14,14 +14,14 @@
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="NextGenReSharper.exe.manifest" size="11441">
+    <dependentAssembly dependencyType="install" codebase="NextGenReSharper.exe.manifest" size="12107">
       <assemblyIdentity name="NextGenReSharper.exe" version="1.0.0.17" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mNNTr3ZQI0dGXFdy/Oj+h4nNw9HoSM7kh6efRW/JgEQ=</dsig:DigestValue>
+        <dsig:DigestValue>DDpuEV4JAAd/Q8YxGTa2hSGZXupQMyWJ/94EPuADvXE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
