@@ -163,14 +163,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NextGenReSharper.exe" size="649208">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NextGenReSharper.exe" size="650232">
       <assemblyIdentity name="NextGenReSharper" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Dg4kFQ+jvF7pNaDd5XAihGU1P7izqv/tR2NhndrDTw0=</dsig:DigestValue>
+        <dsig:DigestValue>hTCoCRnHTxU05pdBxHaXdqbL7SkWBhRi1gDhuR9/kHY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

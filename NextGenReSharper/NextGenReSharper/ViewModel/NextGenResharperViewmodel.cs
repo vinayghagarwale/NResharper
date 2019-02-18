@@ -563,6 +563,10 @@ namespace NextGenReSharper.ViewModel
                         SourceDataAccessData = _nGReSharperContext.ngResharperManager.VBNETDataAccessClass;
                        // DestinationDALText.Document.Blocks.Add(new Paragraph(new Run(processConToDAL.Convert())));
                         break;
+
+                    case ConvertionType.ConvertLegacyMethodtoNewMethod:
+
+                        break;
                 }
                 ProcessIndicator = Visibility.Collapsed;
             }
@@ -585,6 +589,10 @@ namespace NextGenReSharper.ViewModel
 
                 }
                 else if (_convertType == ConvertionType.CreateDALfromInline)
+                {
+
+                }
+                else if (_convertType == ConvertionType.ConvertLegacyMethodtoNewMethod)
                 {
 
                 }
@@ -623,6 +631,10 @@ namespace NextGenReSharper.ViewModel
                     configWidow.ShowDialog();
                 }
                 else if (_convertType == ConvertionType.CreateDALfromInline)
+                {
+
+                }
+                else if (_convertType == ConvertionType.ConvertLegacyMethodtoNewMethod)
                 {
 
                 }
