@@ -94,5 +94,14 @@ namespace NextGen.Manager.NGReSharper
             return true;
         }
 
+        public bool ConvertLegacyMethodToNewMethod()
+        {
+
+
+
+
+
+            return true;
+        }
     }
 }

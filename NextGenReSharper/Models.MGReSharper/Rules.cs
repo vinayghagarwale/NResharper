@@ -5,6 +5,7 @@ namespace NextGen.Models.NGReSharper
     {
         ConvertSPtoCS,
         CreateDALfromInline,
+        ConvertLegacyMethodtoNewMethod
     }
     public class SptoCSRules
     {

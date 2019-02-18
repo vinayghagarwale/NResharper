@@ -8,3 +8,4 @@ E:\Side Projects\NextGenReSharper1\NextGenReSharper\Bin\NextGen.Models.NGReSharp
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\Models.MGReSharper\obj\Debug\NextGen.Models.NGReSharper.csproj.CoreCompileInputs.cache
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\Models.MGReSharper\obj\Debug\NextGen.Models.NGReSharper.dll
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\Models.MGReSharper\obj\Debug\NextGen.Models.NGReSharper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Models.MGReSharper\obj\Debug\NextGen.Models.NGReSharper.csprojAssemblyReference.cache

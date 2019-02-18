@@ -8,3 +8,4 @@ E:\Side Projects\NextGenReSharper1\NextGenReSharper\Nextgen.ReSharper.UnitTest\b
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\Nextgen.ReSharper.UnitTest\obj\Debug\Nextgen.ReSharper.UnitTest.csproj.CoreCompileInputs.cache
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\Nextgen.ReSharper.UnitTest\obj\Debug\Nextgen.ReSharper.UnitTest.dll
 E:\Side Projects\NextGenReSharper1\NextGenReSharper\Nextgen.ReSharper.UnitTest\obj\Debug\Nextgen.ReSharper.UnitTest.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Nextgen.ReSharper.UnitTest\obj\Debug\Nextgen.ReSharper.UnitTest.csprojAssemblyReference.cache

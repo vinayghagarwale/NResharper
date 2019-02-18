@@ -3,3 +3,4 @@ E:\Side Projects\NextGenReSharper\NextGenReSharper\Nextgen.Engine.CSharpCompiler
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Nextgen.Engine.CSharpCompiler\obj\Debug\Nextgen.Engine.Compiler.csproj.CoreCompileInputs.cache
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Nextgen.Engine.CSharpCompiler\obj\Debug\Nextgen.Engine.CSharpCompiler.dll
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Nextgen.Engine.CSharpCompiler\obj\Debug\Nextgen.Engine.CSharpCompiler.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Nextgen.Engine.CSharpCompiler\obj\Debug\Nextgen.Engine.Compiler.csprojAssemblyReference.cache
