@@ -16,7 +16,7 @@ using System.IO;
 using System.Windows.Forms;
 
 namespace NextGenReSharper.Views
-{
+{ 
     /// <summary>
     /// Interaction logic for NextGenResharperView.xaml
     /// </summary>

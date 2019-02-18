@@ -10,3 +10,4 @@ E:\Side Projects\NextGenReSharper\NextGenReSharper\Bin\Bootstrapper.pdb
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Bootstrapper\obj\Debug\Bootstrapper.csproj.CoreCompileInputs.cache
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Bootstrapper\obj\Debug\Bootstrapper.dll
 E:\Side Projects\NextGenReSharper\NextGenReSharper\Bootstrapper\obj\Debug\Bootstrapper.pdb
+E:\Side Projects\NextGenReSharper\NextGenReSharper\Bootstrapper\obj\Debug\Bootstrapper.csprojAssemblyReference.cache
